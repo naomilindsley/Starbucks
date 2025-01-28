@@ -1,3 +1,4 @@
+alabaster
 
 altair @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/altair_1699497320503/work
 anaconda-anon-usage @ file:///C:/b/abs_c3w_h1zzjg/croot/anaconda-anon-usage_1710965204622/work
