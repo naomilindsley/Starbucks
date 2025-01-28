@@ -4,6 +4,7 @@ import pandas as pd
 import plotly.express as px
 from PIL import Image
 import seaborn as sns
+import numpy as np
 
 # Set page title and icon
 st.set_page_config(page_title="Starbucks", page_icon="☕")
