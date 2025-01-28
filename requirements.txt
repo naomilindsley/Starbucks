@@ -419,3 +419,8 @@ wheel==0.44.0
 yarg==0.1.9
 webcolors==24.11.1
 
+
+aioitertools
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+alabaster @ file:///C:/b/abs_45ba4vacaj/croot/alabaster_1718201502252/work
+# Other dependencies remain unchanged...
